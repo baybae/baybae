@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <img src="https://i.ibb.co/cyM9YyH/logoku.jpg" />
+  <img src="https://raw.githubusercontent.com/bayha/bay/main/rest-api.gif" />
 </p>
 
 ## Hello There
